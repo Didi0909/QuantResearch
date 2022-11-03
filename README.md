@@ -1,2 +1,2 @@
-# ISOM5510
-Game2
+# QuantResearch
+for personal use
